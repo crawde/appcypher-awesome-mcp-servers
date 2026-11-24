@@ -409,6 +409,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools for creating and managing data visualizations. Enables generation of charts, graphs, and other visual representations of data.
 
+- **[ChartForge](https://github.com/crawde/chartforge-mcp)** - Generate publication-grade 2x Retina PNG/SVG/PDF charts and 13 editorial templates (Sankey, waffle grids, stacked columns, choropleths) from text, CSV, or JSON via stdio or remote HTTP MCP.
 - <img src="https://vega.github.io/favicon.ico" height="14"/> [VegaLite](https://github.com/isaacwasserman/mcp-vegalite-server) - Generate visualizations from fetched data using the VegaLite format and renderer.
 - <img src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*ZFK8SrovcqgAAAAAAAAAAAAAemJ7AQ/original" height="14"/> [Chart](https://github.com/antvis/mcp-server-chart) - A Model Context Protocol server for generating visual charts using [AntV](https://github.com/antvis).
 - <img src="https://echarts.apache.org/zh/images/favicon.png" height="14"/> [ECharts](https://github.com/hustcc/mcp-echarts) - Generate visual charts using [Apache ECharts](https://echarts.apache.org/) with AI MCP dynamically.
